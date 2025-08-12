@@ -1,5 +1,5 @@
 # Lit_Tone_Magazine_Website
 The Lit Tone Magazine website depicting the organization's digital presence.
 
-Sr Dev - @quadirmariyam
+Sr Dev - @quadirmariyam <br>
 Backend Dev - @durgeshnunnu9
