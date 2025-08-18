@@ -3,3 +3,4 @@ The Lit Tone Magazine website depicting the organization's digital presence.
 
 Sr Dev - @quadirmariyam <br>
 Backend Dev - @durgeshnunnu9
+Frontend Dev - @yashowardhan
